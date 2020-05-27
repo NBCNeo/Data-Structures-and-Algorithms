@@ -92,7 +92,7 @@
    "cell_type": "code",
    "execution_count": 2,
    "metadata": {
-    "deletable": false,
+    "deletable": true
     "nbgrader": {
      "checksum": "395997ac94ed1416c67b22f7977c07a5",
      "grade": false,
